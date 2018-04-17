@@ -1,0 +1,8 @@
+item.ItemMagnet.name=Magnet
+item.ItemMagnet_Red.name=Red Magnet
+item.itemMagnet_Blue_Red.name=Blue & Red Magnet
+item.ItemMagnetite.name=Magnetite
+
+tile.BlockMagnetiteOre.name=Magnetite Ore
+
+itemGroup.tabExciMagnetic=Exci Magnetic
